@@ -23,7 +23,6 @@ aws-cdk.region-info==1.20.0
 cattrs==1.0.0
 # Editable Git install with no remote (cdk==0.0.1)
 -e .
-#-e /home/dev/dev/jesus-web-app/cdk/cdk
 jsii==0.21.1
 publication==0.0.3
 python-dateutil==2.8.1
